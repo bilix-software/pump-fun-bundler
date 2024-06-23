@@ -1,4 +1,7 @@
 # pump-fun-bundler
+New: There is now also a telegram bot available for this bundler at: https://t.me/viper_pump_bot. 
+Note: this is a first version so any feedback is appreciated.
+
 This bundler can be used on: https://viper.bot
 It contains the following features:
   - Bundle launch with up to 16 buy transactions
