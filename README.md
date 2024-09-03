@@ -1,4 +1,5 @@
 # pump-fun-bundler
+Update 03-09-2024: Cmd line bundler now includes token amounts calculator [showcase](https://streamable.com/saj2ro). Price for bundler is flat 10 SOL.
 Update 26-08-2024: There is now also a command-line bundler for sale. Contact me on telegram if you're interested. [showcase](https://streamable.com/46042a)
 
 Update 26-07-2024: You can now try the bot with a one-time coupon for free on https://viper.bot/. See https://t.me/viper_discussions for more info and to obtain a coupon.
